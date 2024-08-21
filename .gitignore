@@ -1,0 +1,8 @@
+/*.gz
+/leaderboard/
+/codesubset/
+/ecg-preprocessing/
+/venv/
+/.ipynb_checkpoints/
+/.idea/
+/.DS_Store
